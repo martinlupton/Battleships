@@ -15,7 +15,7 @@ public class GameSetUpView extends JPanel implements ActionListener{
 
 	public GameSetUpView(){
 		JButton aircraftCarrier = new JButton("Aircraft Carrier");
-		JButton battleship = new JButton("Battleship");
+		JButton battleship = new JButton("Battlefart");
 		JButton submarine = new JButton("Submarine");
 		JButton destroyer = new JButton("Destroyer");
 		JButton patrolBoat = new JButton("Fart Boat");
